@@ -1,0 +1,32 @@
+[Extracted from sample/input_sample.pdf | emphasis convention: **bold**  *italic*  ***bold italic***]
+
+===== Page 1 / 2 =====
+
+   **Quarterly Operations Note (Sample Document)**
+
+This is a **synthetic sample** created to demonstrate layout-preserving extraction. It mixes **bold**,
+*italic* and ***bold-italic*** words inside normal wrapped paragraphs so the emphasis tags can be
+checked line by line.
+
+**1. Summary**
+
+Orders grew **18%** quarter on quarter. Delivery times improved, although *returns* in the electronics
+category remain above target. The team recommends a **weekly** review until the rate falls below *3*
+*per cent*.
+
+**2. Key figures**
+
+**Metric**                    **Q2**    **Q3** **Change**
+  Orders                   12,400     14,632      +18.0%
+  Avg. delivery (days)         4.1        3.6         -0.5
+  Return rate                3.9%       3.7%      -0.2 pts
+
+===== Page 2 / 2 =====
+
+**3. Next steps**
+
+• Pilot the new courier partner in **two cities**.
+• Publish the *returns playbook* for the support team.
+• Re-check all figures before the ***final board pack***.
+
+*Prepared as demo content; all numbers are invented.*
