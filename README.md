@@ -1,6 +1,8 @@
-# Freelance Portfolio — Ayush Kumar
+# Freelance Portfolio — Santosh Kumar Singh
 
-I'm Ayush Kumar (18, India), building with AI and Python. This repo holds **sample / demo projects** I made to show the kind of work I take on. None of it is client work and there are no client names or testimonials here — every dataset is either public or synthetic and is labelled as such.
+I'm Santosh Kumar Singh (18, India), building with AI and Python. This repo holds **sample / demo projects** I made to show the kind of work I take on. None of it is client work and there are no client names or testimonials here — every dataset is either public or synthetic and is labelled as such.
+
+**Portfolio:** https://santosh-portfolio.crafteraman78822.workers.dev
 
 **Contact:** aayush.kumaar.011@gmail.com · X [@inventor011](https://x.com/inventor011) · YouTube [@inventor0011](https://www.youtube.com/@inventor0011)
 

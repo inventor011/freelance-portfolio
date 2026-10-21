@@ -126,7 +126,7 @@ ab = wb.create_sheet("About")
 ab.column_dimensions["A"].width = 110
 for i, line in enumerate([
     "SAMPLE / DEMO WORKBOOK - synthetic transactions, not real client data.",
-    "Built by Ayush Kumar as a portfolio sample of rule-based transaction categorization.",
+    "Built by Santosh Kumar Singh as a portfolio sample of rule-based transaction categorization.",
     "Transactions: paste raw rows into columns A-C; columns D-G tag themselves.",
     "Rules: keyword -> category table. Edit freely; formulas read the whole range.",
     "Summary: totals per category, income vs expense, and a count of rows flagged for review.",

@@ -58,7 +58,7 @@ mix_share = (100 * mix / ind.loc[LAST, "co2"]).round(1)
 plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 11, "axes.spines.top": False,
                      "axes.spines.right": False, "axes.grid": True, "grid.alpha": .25, "axes.titleweight": "bold"})
 COL = {"India": "#FF7A00", "China": "#C62828", "United States": "#1565C0", "European Union (27)": "#2E7D32", "World": "#555555"}
-SRC = "Source: Our World in Data CO2 dataset (CC BY 4.0) | Sample analysis by Ayush Kumar"
+SRC = "Source: Our World in Data CO2 dataset (CC BY 4.0) | Sample analysis by Santosh Kumar Singh"
 
 fig, ax = plt.subplots(figsize=(10, 5.6))
 for c in ENT[:-1]:
