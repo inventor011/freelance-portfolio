@@ -1,0 +1,32 @@
+[Extracted from sample/input_sample.pdf | emphasis convention: <b>bold</b>  <i>italic</i>]
+
+===== Page 1 / 2 =====
+
+  <b>Quarterly Operations Note (Sample Document)</b>
+
+This is a <b>synthetic sample</b> created to demonstrate layout-preserving extraction. It mixes <b>bold</b>,
+<i>italic</i> and <b><i>bold-italic</i></b> words inside normal wrapped paragraphs so the emphasis tags can be
+checked line by line.
+
+<b>1. Summary</b>
+
+Orders grew <b>18%</b> quarter on quarter. Delivery times improved, although <i>returns</i> in the electronics
+category remain above target. The team recommends a <b>weekly</b> review until the rate falls below <i>3</i>
+<i>per cent</i>.
+
+<b>2. Key figures</b>
+
+<b>Metric</b>                <b>Q2</b> <b>Q3</b> <b>Change</b>
+  Orders                   12,400     14,632      +18.0%
+  Avg. delivery (days)         4.1        3.6         -0.5
+  Return rate                3.9%       3.7%      -0.2 pts
+
+===== Page 2 / 2 =====
+
+<b>3. Next steps</b>
+
+• Pilot the new courier partner in <b>two cities</b>.
+• Publish the <i>returns playbook</i> for the support team.
+• Re-check all figures before the <b><i>final board pack</i></b>.
+
+<i>Prepared as demo content; all numbers are invented.</i>
